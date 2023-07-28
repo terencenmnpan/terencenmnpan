@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @terencenmnpan
-- 👀 I’m current interested in Java and Angular
+- 👀 I’m currently interested in Java and Angular
 - 🌱 I’m currently learning kubernetes and microservices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
